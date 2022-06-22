@@ -4,7 +4,7 @@ This project was made during the *Maratona Explorer*, which was a **Rocketseat**
 
 The goal was to create a web page where you ask a question, and got a **mysterious divination** as an answer.
 
-## Increments
+## Changes
 
 All the code follows the basic structure taught in the classes, however, I decided to translate all *content/classes* into **English**.
 
